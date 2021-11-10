@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Trash God's Page on Github Pages
 
 You can use the [editor on GitHub](https://github.com/chennaultsvcs/iamtrash/edit/Dumpster/README.md) to maintain and preview the content for your website in Markdown files.
 
